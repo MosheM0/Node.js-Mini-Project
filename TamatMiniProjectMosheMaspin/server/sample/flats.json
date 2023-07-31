@@ -1,0 +1,16 @@
+{
+  "flats": [
+    {
+      "id": "d4c02790-603a-4072-9953-da231c57957e",
+      "streetName": "Hertzel",
+      "streetNumber": 42,
+      "city": "Tel-Aviv"
+    },
+    {
+      "id": "e3b8b3a6-275d-4095-bb38-db051aba5ad4",
+      "streetName": "Ben Gurion",
+      "streetNumber": 666,
+      "city": "Jerusalem"
+    }
+  ]
+}
